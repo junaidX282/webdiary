@@ -1,0 +1,32 @@
+.App{
+  width: 60%;
+  margin: 10px auto;
+}
+header {
+  background: grey;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+section {
+  padding: 20px;
+  text-align: center;
+  background: #c8c8c8;
+  height: 50vh;
+}
+footer{
+  padding: 20px;
+  background: grey;
+  text-align: center;
+  color: white;
+}
+.desc {
+  width: 60%;
+  margin: auto;
+  font-size: 18px;
+
+}
+h2{
+  font-size: 28px;
+  /* color: white; */
+}
